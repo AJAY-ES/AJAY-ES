@@ -14,7 +14,7 @@ Here are some ideas on me:
 - 🦁 I’m always looking for challenging work oppurtunities ahead.
 - 💌 How to reach me: **esajay96@gmail.com** 
 - ⚡  Fun fact:  
-	    🧢  Leads from front and team player
+     - 🧢  Leads from front and team player
      - 🏍  Love in travel
      - 🎓  Graduated  **BTECH** in Computer Science and Engg from Calicut University
      - 💼  **>1.5 yr** experience as Associate Software Engineer-JAVA
