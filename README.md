@@ -9,8 +9,8 @@ Hi there,Ajay here 👋
 Here are some ideas on me:
 
 - 🇮🇳 INDIAN
-- 🔭 I’m currently working on BYTA Tech LXI Technologies Pvt Ltd
  - 🎓  Graduated  **BTECH** in Computer Science and Engg from Calicut University
+- 🔭 I’m currently working on BYTA Tech LXI Technologies Pvt Ltd
  - 💼  **>1.5 yr** experience as Associate Software Engineer-JAVA
 - 🌱 I’m currently learning **JAVA** Technologies and **FLUTTER**
 - 🦁 I’m always looking for challenging work oppurtunities ahead.
