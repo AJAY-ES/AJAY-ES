@@ -11,7 +11,7 @@ Here are some ideas on me:
 - 🇮🇳 INDIAN
  - 🎓  Graduated  **BTECH** in Computer Science and Engg from Calicut University (2018)
  - 🔭 I’m currently working on BYTA Tech LXI Technologies Pvt Ltd
- - 💼  **>1.5 yr** experience as Associate Software Engineer-JAVA
+ - 💼  **>2 yr** experience as Associate Software Engineer-JAVA
 - 🌱 I’m currently learning **JAVA** Technologies and **FLUTTER**
 - 🦁 I’m always looking for challenging work oppurtunities ahead.
 - 💌 How to reach me: **esajay96@gmail.com** 
