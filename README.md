@@ -8,20 +8,19 @@ Hi there,Ajay here 👋
 -->
 Here are some ideas on me:
 
-- 🇮🇳 INDIAN
+- 🇮🇳 INDIA
  - 🎓  Graduated  **BTECH** in Computer Science and Engg from Calicut University (2018)
  - 🔭 I’m currently working on SAASVAAP Techies Pvt Ltd
- - 💼  **3.8 yr** experience as Software Engineer-JAVA
+ - 💼 Total of **3.8 yr** experience as Software Engineer-JAVA
 - 🌱 I’m currently learning **JAVA** Technologies and **ANGULAR**
-- 🦁 I’m always looking for challenging work oppurtunities ahead.
+- 🦁 Challenge hunter.
 - 💌 How to reach me: **esajay96@gmail.com** 
-- 🧢  Leads from front and team player
+- 🧢  Team allrounder player
 - ⚡  Fun fact:  
      
      - 🏍  Love in travel    
      - 🏏⚽ Playing
-     - 🎧  music listener 
-     - 🍫  Chocolate lover
+     - 🎧  music  
     
 
 
