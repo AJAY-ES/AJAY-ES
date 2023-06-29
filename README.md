@@ -11,7 +11,7 @@ Here are some ideas on me:
 - 🇮🇳 INDIA
  - 🎓  Graduated  **BTECH** in Computer Science and Engg from Calicut University (2018)
  - 🔭 I’m currently working on SAASVAAP Techies Pvt Ltd
- - 💼 Total of **3.8 yr** experience as Software Engineer-JAVA
+ - 💼 Total of **4.3 yr** experience as Software Engineer-JAVA
 - 🌱 I’m currently learning **JAVA** Technologies and **ANGULAR**
 - 🦁 Challenge hunter.
 - 💌 How to reach me: **esajay96@gmail.com** 
